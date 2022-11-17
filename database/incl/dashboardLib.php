@@ -16,7 +16,7 @@ class dashboardLib{
 						<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
 						<link async rel="stylesheet" href="incl/cvolton.css">
 						<link async rel="stylesheet" href="incl/font-awesome-4.7.0/css/font-awesome.min.css">
-						<title>[Beta] CvoltonGDPS Dashboard</title>
+						<title>[Альфа] RuCore</title>
 						<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">';
 		echo '		</head>
 				<body>';
@@ -42,13 +42,13 @@ class dashboardLib{
 		</html>';
 	}
 	public function printLoginBox($content){
-		$this->printBox("<h1>Login</h1>".$content);
+		$this->printBox("<h1>Войти</h1>".$content);
 	}
 	public function printLoginBoxInvalid(){
-		$this->printLoginBox("<p>Invalid username or password. <a href=''>Click here to try again.</a>");
+		$this->printLoginBox("<p>Неверное имя пользователя, или пароль. <a href=''>Нажмите что-бы повторить попытку.</a>");
 	}
 	public function printLoginBoxError($content){
-		$this->printLoginBox("<p>An error has occured: $content. <a href=''>Click here to try again.</a>");
+		$this->printLoginBox("<p>Возникла ошибка: $content. <a href=''>Повторить попытку.</a>");
 	}
 	public function printNavbar($active){
 		require_once __DIR__."/../../incl/lib/mainLib.php";
@@ -76,7 +76,7 @@ class dashboardLib{
 				break;
 		}
 		echo '<nav class="navbar navbar-expand-lg navbar-dark menubar">
-			<a class="navbar-brand" href="index.php">CvoltonGDPS</a>
+			<a class="navbar-brand" href="index.php">RuCore</a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
 			</button>
