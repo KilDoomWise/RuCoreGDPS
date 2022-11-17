@@ -1,4 +1,4 @@
-#RuCoreGDPS
+## RuCoreGDPS
 Это ядро форкнуто KilDoom'om, что здесь нового?
 > Новый интерфейс
 > API
