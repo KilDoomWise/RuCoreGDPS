@@ -46,8 +46,8 @@ foreach($months as &$month){
 	}
 }
 
-$dl->printPage('<p>Welcome to the CvoltonGDPS dashboard. Please choose a tool above.
-				<br>DISCLAIMER: THIS AREA IS UNDER HEAVY DEVELOPEMENT, DON\'T EXPECT MUCH STUFF TO WORK
+$dl->printPage('<p>Добро пожаловать в интерфейс RuCoreGDPS
+
 				<br>Legend: (N) = Not Working, (T) = Links to the legacy tool version
 				<br>
 					<div class="chart-container" style="position: relative; height:30vh; width:80vw">
