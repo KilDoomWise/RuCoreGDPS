@@ -5,7 +5,8 @@
 > Переписаны все страницы (SongUpload, Database)
 
 #Форки
-Благодарность: https://github.com/foxodever/BetterCvoltonGDPS - использование основы ядра
+Благодарность:
+> https://github.com/foxodever/BetterCvoltonGDPS - использование основы ядра
 ---
 Оригиналы:
 > https://github.com/foxodever/BetterCvoltonGDPS
