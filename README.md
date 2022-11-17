@@ -1,4 +1,5 @@
 ## RuCoreGDPS
+<body><img src="https://cloud.hinja.ru/uploads/Picsart_22-11-17_23-54-14-420.png"></body>
 Это ядро форкнуто KilDoom'om, что здесь нового?
 > Новый интерфейс
 > API
