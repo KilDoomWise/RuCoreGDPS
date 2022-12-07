@@ -12,3 +12,7 @@
 Оригиналы:
 > https://github.com/foxodever/BetterCvoltonGDPS
 > https://github.com/Cvolton
+
+# Языки
+> Написано на:
+[![Languages](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev)
