@@ -15,4 +15,5 @@
 
 # Языки
 > Написано на:
-[!Languages](https://skillicons.dev/icons?i=html,css,php,js&perline=4)](https://skillicons.dev)
+---
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev)
